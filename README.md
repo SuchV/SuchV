@@ -12,7 +12,6 @@ Interests:
     GameDev
     AI and ML
     
-Contact
 You can reach me at: 
 
     Gmail: mikolaj.zajac01@gmail.com
