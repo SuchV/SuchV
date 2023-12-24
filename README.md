@@ -7,7 +7,7 @@ What I'm currently learning:
     C#
     JavaScript
 
-Interests
+Interests:
     
     GameDev
     AI and ML
