@@ -10,7 +10,7 @@ What I'm currently learning:
 Interests:
     
     GameDev
-    AI and ML
+    OOP
     
 You can reach me at: 
 
