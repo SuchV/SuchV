@@ -1,5 +1,5 @@
 Hi there! I’m Nick, a 21-year-old computer science student from Poland. 
-My goal is to become a game developer in the future.
+My goal is to become a software developer in the future.
 
 What I'm currently learning:
 
