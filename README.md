@@ -1,16 +1,20 @@
-Hi there! I’m Nick, a 21-year-old computer science student from Poland. 
+Hi there! I’m Nick, a computer science student from Poland. 
 My goal is to become a software developer in the future.
+You can check any resume projects I'm currently working on here.
+Enjoy :) 
 
 What I'm currently learning:
 
-    Python
-    C++
+    MERN stack
     JavaScript
+    TypeScript
+    Python
 
 Interests:
 
+    WebDev
     GameDev
-    OOP
+    TableTop RPGs
     
 You can reach me at: 
 
