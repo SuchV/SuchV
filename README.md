@@ -6,6 +6,8 @@ Enjoy :)
 What I'm currently learning:
 
     MERN stack
+    Tailwind
+    Next.js
     JavaScript
     TypeScript
     Python
